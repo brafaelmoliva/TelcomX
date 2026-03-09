@@ -1,8 +1,6 @@
 # 📊 Telecom X - Análisis de Churn (Evasión de Clientes)
 
-![Estatus del Proyecto](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-orange)
+
 
 Este proyecto forma parte del desafío de **Telecom X**, donde actúo como analista de datos para identificar los factores que influyen en la pérdida de clientes (Churn). El objetivo es realizar un proceso de **ETL** y un **Análisis Exploratorio (EDA)** para entregar datos limpios e insights estratégicos al equipo de Data Science.
 
